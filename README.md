@@ -25,8 +25,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL here](https://github.com/Blazing-Mike/Advice-generator-app)
+- Live Site URL: [live site URL here](https://sunny-bienenstitch-cb4ae0.netlify.app/)
 
 ## My process
 
