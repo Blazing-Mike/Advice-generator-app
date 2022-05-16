@@ -33,7 +33,7 @@ body{
 
 .container{
     width: 20rem;
-    height: 18rem;
+    height: auto;
     background-color: hsl(216, 16%, 31%);
     border-radius: 10px;
     padding: 10px;
@@ -69,11 +69,15 @@ justify-content: center;
 
 .divider{
    margin-top: 2rem;
+   margin: 2rem 0 2.8rem 0;
 }
-
+.attribution{
+    text-align: center;
+}
 @media screen and (min-width: 740px) {
     .container{
         width: 25rem;
-        height: 15rem;
+        height: auto;
+        padding: 20px;
     }
 }

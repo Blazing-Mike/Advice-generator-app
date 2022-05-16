@@ -1,4 +1,4 @@
-const quoteP = document.querySelector("h3.quote");
+const quoteP = document.querySelector(".quote");
 const adviceId = document.querySelector("p.advice-id");
 const reloadButton = document.querySelector('.reload');
 
